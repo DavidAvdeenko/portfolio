@@ -81,6 +81,10 @@
       }
 
       &:hover {
+         a {
+            text-decoration: none;
+         }
+
          &:before {
             background-color: #fff;
          }
